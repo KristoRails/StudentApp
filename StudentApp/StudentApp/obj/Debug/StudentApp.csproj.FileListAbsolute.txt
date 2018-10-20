@@ -1,0 +1,7 @@
+E:\Project Orion II\Project Unity\C# tutorials\Personal Code\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+E:\Project Orion II\Project Unity\C# tutorials\Personal Code\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+E:\Project Orion II\Project Unity\C# tutorials\Personal Code\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+E:\Project Orion II\Project Unity\C# tutorials\Personal Code\StudentApp\StudentApp\obj\Debug\StudentApp.csprojAssemblyReference.cache
+E:\Project Orion II\Project Unity\C# tutorials\Personal Code\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+E:\Project Orion II\Project Unity\C# tutorials\Personal Code\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+E:\Project Orion II\Project Unity\C# tutorials\Personal Code\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
